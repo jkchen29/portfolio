@@ -3,5 +3,5 @@ My previous works of note :)
 
 Class Projects: 
 - [Reuters Corpus](./Reuters%20Author%20and%20Text%20Clustering.ipynb)
-- [Association Rules](./Association-rule-grocery.pdf)
+- [Association Rules - Grocery](./Association-rule-grocery.pdf)
 
