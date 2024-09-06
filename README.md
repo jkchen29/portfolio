@@ -7,5 +7,5 @@ Class Projects:
 - [Uber and Lyft Prices](Uber%20and%20Lyft%20Prices.pdf)
 
 Contact:
-[LinkedIn](https://www.linkedin.com/in/janie-k-chen/)
+[LinkedIn](https://www.linkedin.com/in/janie-k-chen/) |
 janiek.chen@utexas.edu
