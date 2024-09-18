@@ -5,7 +5,7 @@ Class Projects:
 - [Reuters Corpus](./Reuters%20Author%20and%20Text%20Clustering.ipynb)
 - [Association Rules - Grocery](Association%20Rules%20Grocery/Association-rule-grocery.pdf)
 - [Uber and Lyft Prices](Uber%20and%20Lyft%20Prices.pdf)
-- [Marketing: Build-A-Bear Brand Value] (Build-A-Bear Presentation)
+- [Marketing: Build-A-Bear Brand Value](Build-A-Bear%Presentation.pdf)
 
 Contact:
 [LinkedIn](https://www.linkedin.com/in/janie-k-chen/) |
